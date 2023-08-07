@@ -1,0 +1,5 @@
+Chapter : 2 - item : 1 - การใช้งาน \n และ \t
+Chapter : 2 - item : 2 - การใช้งาน \n \t
+Chapter : 2 - item : 3 - การแสดงผลจำนวนเต็ม
+Chapter : 2 - item : 4 - การแสดงผลทศนิยม
+Chapter : 2 - item : 5 - การแสดงข้อความ %s
