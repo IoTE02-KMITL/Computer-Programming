@@ -1,25 +1,3 @@
-// #include <DHT.h>
-
-// #define DHTPIN D3
-// #define DHTTYPE DHT11
-
-// DHT dht (DHTPIN, DHTTYPE);
-// void setup() {
-//   // put your setup code here, to run once:
-//   pinMode(LED1, OUTPUT);
-//   pinMode(LED1, OUTPUT);
-//   pinMode(LDR, INPUT);
-//   Serial.begin(9600);
-//   dht.begin();
-// }
-
-// void loop() {
-//   // put your main code here, to run repeatedly:
-//   delay(1000);
-//   float t = dht.readTemperature();
-//   Serial.println(t);
-// }
-
 #include "DHT.h"
 #define DHTPIN D3
 #define DHTTYPE DHT11
