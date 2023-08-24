@@ -1,0 +1,4 @@
+{
+    "template" : "# <label>\n\n![img](./assets/<img>.jpg)\n\n[CODE][file] :\n```c\n<code>\n```\n\n[file]: ./src/<filename>\n",
+    "shortcut" : "# Shortcut\n\n<shortcut>\n\n<link>\n"
+}
