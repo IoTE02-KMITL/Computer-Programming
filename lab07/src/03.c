@@ -7,7 +7,7 @@ char *to_lowercase(char string[]);
 
 int main()
 {
-    char *name;
+    char name[100];
     printf("Enter a string : ");
     scanf("%[^\n]", name);
     printf("Capital : %s\n", to_uppercase(name));
