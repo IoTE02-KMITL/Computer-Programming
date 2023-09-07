@@ -1,0 +1,5 @@
+Chapter : 8 - item : 1 - Array 1 dimension
+Chapter : 8 - item : 2 - Array 2 dimensions
+Chapter : 8 - item : 3 - ผลต่างมากสุดของจำนวนที่ติดกัน
+Chapter : 8 - item : 4 - structure array 1
+Chapter : 8 - item : 5 - structure array 2
