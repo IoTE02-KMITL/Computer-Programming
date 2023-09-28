@@ -1,0 +1,5 @@
+Chapter : 9 - item : 1 - (4) รายได้
+Chapter : 9 - item : 2 - (43) โจร
+Chapter : 9 - item : 3 - (4) คะแนน
+Chapter : 9 - item : 4 - (43) ชื่อมงคล
+Chapter : 9 - item : 5 - (43) เติมคำในช่องว่าง
